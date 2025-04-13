@@ -35,5 +35,5 @@ Now with a built-in **FastAPI backend** to handle wallet saving and future integ
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Bingo-Caller-GUI-APP.git
+git clone https://github.com/BlackCobra29-bit/Bingo-Caller-GUI-App.git
 cd Bingo-Caller-GUI-APP
